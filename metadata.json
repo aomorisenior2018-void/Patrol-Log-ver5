@@ -1,0 +1,7 @@
+{
+  "name": "Patrol-Log-ver5",
+  "description": "Offline-capable telemetry inspection log with photo EXIF support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
